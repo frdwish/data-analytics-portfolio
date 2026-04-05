@@ -1,0 +1,4 @@
+"month_name","net_revenue","prev_revenue","mom_growth_pct"
+"January",13874.00,NULL,NULL
+"February",15200.00,13874.00,9.6
+"March",22778.00,15200.00,49.9

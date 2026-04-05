@@ -1,0 +1,30 @@
+"priority_rank","patient_name","gender","churn_risk","total_visits","lifetime_revenue","last_visit_date","days_since_last_visit"
+1,"Nice Ali","Male","High Risk (High Value)",2,3474.00,"2026-01-17 09:03:00",78
+2,"Gowri Shankar Gogoi","Male","High Risk (High Value)",1,2210.00,"2026-02-05 09:57:00",59
+3,"Safiya Begum","Female","High Risk (High Value)",1,2170.00,"2026-02-04 11:13:00",60
+4,"Firooz Khan","Male","High Risk (High Value)",2,2050.00,"2026-02-02 12:23:00",62
+5,"Rakibuddin Saikia","Male","High Risk (High Value)",1,1940.00,"2026-02-24 10:20:00",40
+6,"Jamir Uddin","Male","High Risk (High Value)",1,1790.00,"2026-01-22 11:22:00",73
+7,"Saiful Hussain","Male","High Risk (High Value)",1,1340.00,"2026-01-20 11:14:00",75
+8,"Ikram Ahmed","Male","High Risk (High Value)",1,1300.00,"2026-02-26 11:55:00",38
+9,"Nasima Begum","Female","High Risk (High Value)",1,1250.00,"2026-02-03 09:35:00",61
+10,"Nilakshi Dutta","Female","High Risk (High Value)",1,1240.00,"2026-02-06 10:54:00",58
+11,"Hamid Khan","Male","High Risk (High Value)",1,1100.00,"2026-01-12 12:55:00",83
+12,"Miss.Mehnaj Begum","Unknown","High Risk",1,900.00,"2026-02-23 11:58:00",41
+13,"Aisha Khatun","Female","High Risk",1,900.00,"2026-02-28 09:18:00",36
+14,"Mridul Boruah","Male","High Risk",1,900.00,"2026-02-21 09:49:00",43
+15,"Watiur Rahman","Male","High Risk",1,820.00,"2026-01-24 12:13:00",71
+16,"Haren Dutta","Male","High Risk",1,800.00,"2026-02-03 09:04:00",61
+17,"Runu Begum","Female","High Risk",1,660.00,"2026-01-05 12:42:00",90
+18,"S. Hussain","Male","High Risk",1,630.00,"2026-01-21 12:29:00",74
+19,"Mastermridupawan Borah","Unknown","High Risk",1,620.00,"2026-01-21 11:35:00",74
+20,"Trishna Borah","Female","High Risk",1,620.00,"2026-01-21 11:33:00",74
+21,"Tulsi Gogoi","Male","High Risk",1,510.00,"2026-01-17 10:51:00",78
+22,"Mahun Begum","Female","High Risk",1,510.00,"2026-02-12 11:59:00",52
+23,"Roselin Rouchana","Female","High Risk",1,460.00,"2026-01-12 12:57:00",83
+24,"Alom Ali","Male","High Risk",1,200.00,"2026-01-12 12:49:00",83
+25,"Manosh Borkotoki","Male","High Risk",1,200.00,"2026-01-17 10:24:00",78
+26,"Abdul Rahman","Male","High Risk",1,200.00,"2026-01-31 10:08:00",64
+27,"Rosi Begum","Female","High Risk",1,120.00,"2026-02-03 10:34:00",61
+28,"Utpal Bhuyan","Male","High Risk",1,80.00,"2026-01-21 12:33:00",74
+29,"Gouraaga J Gogoi","Male","High Risk",1,80.00,"2026-02-02 12:20:00",62

@@ -1,0 +1,4 @@
+"month_name","total_visits","unique_patients","total_tests","gross_revenue","total_discount","net_revenue","avg_net_per_visit","discount_rate_pct"
+"January",17,16,28,14110.00,236.00,13874.00,816.12,1.7
+"February",14,14,41,15200.00,0.00,15200.00,1085.71,0.0
+"March",11,10,32,22890.00,112.00,22778.00,2070.73,0.5

@@ -1,0 +1,4 @@
+"gender","unique_patients","total_net","avg_per_test","revenue_pct"
+"Male",23,34622.00,558.42,66.8
+"Female",14,15710.00,424.59,30.3
+"Unknown",2,1520.00,760.00,2.9
